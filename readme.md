@@ -27,6 +27,9 @@ In this lab you will be using what you have learned so far about Views and Layou
 #### Requirements
 
 - Recreate the screen you see on the board.
+<center><img src="screenshot.png" height=300px/></center>
+- There should be a minimum of ten sets of these views
+
 - There has to be two TextViews and one Button vertically oriented.
 - The first and second TextViews should say "This is TextView number " and then the number of the TextView
 - The first TextView has a text size of 26sp, and a text style of bold
