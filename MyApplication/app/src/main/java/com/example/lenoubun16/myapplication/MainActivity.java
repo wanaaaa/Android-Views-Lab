@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
         textView01 = (TextView) findViewById(R.id.textView1);
-
+//
 
         final Button button = (Button) findViewById(R.id.buttonPanel1);
         button.setOnClickListener(new View.OnClickListener() {
